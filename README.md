@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# E-Commerce Website Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains the code for an E-Commerce Website, a web application designed to showcase the functionalities of an online shopping platform. The project is built using HTML, CSS, JavaScript, and PHP. It allows users to browse through products, add items to the cart, and simulate a basic checkout process.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Introduction](#introduction)
+- [Features](#features)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-### `npm start`
+## Introduction
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The E-Commerce Website project provides a hands-on example of how to develop an online store application. It serves as an educational resource for understanding the frontend and backend aspects of an E-Commerce platform. You can explore the codebase to learn about product listing, cart management, and basic order processing.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+1. **Product Catalog**: Users can browse products by category, view details, and get information about each product's price and description.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. **Cart Functionality**: Items can be added to the shopping cart, where users can see a summary of selected products.
 
-### `npm run build`
+3. **Checkout Simulation**: The project simulates a checkout process, demonstrating the transition from the cart to a mock payment processing step.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4. **Responsive Design**: The website is designed to be responsive, adapting to different screen sizes for a consistent user experience.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Demo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A live demo of the project can be accessed at [E-Commerce Website Demo](https://sakshigattani.github.io/E-Commerce-Website/).
 
-### `npm run eject`
+## Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone the repository to your local machine using:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   git clone https://github.com/Sakshigattani/E-Commerce-Website.git
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Navigate to the project directory:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ```bash
+   cd E-Commerce-Website
+   ```
 
-## Learn More
+3. If you're using a local development environment like XAMPP or WAMP, move the project folder to the appropriate directory (e.g., `htdocs` for XAMPP).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+4. Start your local development server.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+5. Open a web browser and navigate to `http://localhost/E-Commerce-Website` to view the website.
 
-### Code Splitting
+## Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Browse the product categories to view available products.
+- Click on a product to see its details.
+- Add products to the cart by clicking the "Add to Cart" button on the product details page.
+- View the cart summary by clicking on the shopping cart icon.
+- Proceed through the mock checkout process to understand the flow.
 
-### Analyzing the Bundle Size
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contributions to this project are welcome! If you find any issues, want to enhance features, or have suggestions, please feel free to create pull requests. Be sure to adhere to the existing coding style and project guidelines.
 
-### Making a Progressive Web App
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This project is licensed under the [MIT License](LICENSE).
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to explore, modify, and learn from this project. Should you have any questions or require assistance, please don't hesitate to get in touch. Happy coding!
