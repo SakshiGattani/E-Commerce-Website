@@ -1,6 +1,6 @@
 # E-Commerce Website Project
 
-This repository contains the code for an E-Commerce Website, a web application designed to showcase the functionalities of an online shopping platform. The project is built using HTML, CSS, JavaScript, and PHP. It allows users to browse through products, add items to the cart, and simulate a basic checkout process.
+This repository contains the code for an E-Commerce Website, a web application designed to showcase the functionalities of an online shopping platform. The project is built using HTML, CSS, JavaScript, and React Js. It allows users to browse through products, add items to the cart, and simulate a basic checkout process.
 
 ## Table of Contents
 
